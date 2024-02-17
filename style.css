@@ -1,0 +1,30 @@
+*{
+    /* margin: 0; */
+    /* padding: 0; */
+    /* box-sizing: border-box; */
+}
+
+
+#clear{
+    width: 130px;
+}
+
+.formstyle{
+    width: 190px;
+    height: 290px;
+    margin: auto;
+    /* border: 2px solid black; */
+}
+#text1{
+    width: 180px;
+}
+
+input{
+    width: 60px;
+    height: 25px;
+    /* background-color: aqua;    */
+}
+
+#clear{
+    width: 190px;
+}
